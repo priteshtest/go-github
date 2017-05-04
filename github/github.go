@@ -24,7 +24,7 @@ import (
 	"time"
 
 	"github.com/google/go-querystring/query"
-	"github.com/priteshtest/go-example/hello"
+	
 )
 
 const (
